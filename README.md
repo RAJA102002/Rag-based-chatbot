@@ -14,4 +14,4 @@ A Retrieval-Augmented Generation (RAG) chatbot built with Streamlit and open-sou
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/RAJA102002/rag-based-chatbot.git
+   git clone https://github.com/RAJA102002/Rag-based-chatbot.git
